@@ -1,2 +1,7 @@
 Alexsandro Dantas
 Aula de git
+HTML
+CSS
+JS
+GIT
+Java
